@@ -1,17 +1,14 @@
-# plate-recognizer
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-P.S
+# Plate Recognizer
 
-I wrote parts of this some time ago but am just getting to push it to git now.
 
-As of the time, i had to hard-configure a lot of things in the code.
 
-However, it works. :xd
+### Contributors
 
-It does what it should do.
+Olamilekan Wahab
 
-N.B N.B N.B N.B:
+## Acknowledgements
 
-Please, go through the code very well if you're going to be cleaning or making changes to it.
-
-Please, abeg.
+Olamilekan Wahab
+PyData Nigeria
